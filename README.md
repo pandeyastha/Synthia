@@ -1,4 +1,4 @@
-# Getting Started with Synthis
+# Getting Started with Synthia
 
 This project was bootstrapped with [Create React App], uses therefore ReactJs. Also uses Express.js , Node.js and HTML/CSS.
 The images of Cynthia on being deployed are as follows-![Screenshot (118)](https://github.com/pandeyastha/Synthia/assets/92038030/b9fae679-545a-4b95-aade-91b077cdb59f)
