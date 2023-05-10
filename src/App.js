@@ -87,7 +87,7 @@ const  App=() => {
         </nav>
       </section>
       <section className="main">
-        {!currentTitle && <h1> AsthaGPT</h1>}
+        {!currentTitle && <h1> Synthia!</h1>}
           <ul className="feed">
                 {currentChat.map((chatMessage,index) => <li key={index}>
                   <p className="role">{chatMessage.role}</p>
